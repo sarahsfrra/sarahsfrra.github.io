@@ -375,7 +375,7 @@ aside {
 
 .biodata-info {
     display: flex;
-    flex-direction: column;
+    flex-direction  : column;
     gap: 7px;
     text-align: left;
     position: relative;
@@ -626,7 +626,6 @@ footer a:hover {
         grid-template-columns: 1fr;
         max-width: 100%;
     }
-
 
     .home-image img{
         max-width: 100%;
