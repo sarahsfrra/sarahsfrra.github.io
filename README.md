@@ -1,5 +1,6 @@
-# 💫 MY PORTOFOLIO WEBSITE 💫
+# 🚀 Dive into the Digital Showcase of My Journey!🚀
 
-I have created a portfolio website showcasing the projects I've created during my vocational school journey. I utilized HTML, CSS, and JavaScript. 
+Welcome to my interactive portfolio website, where I take you on a captivating journey through the projects I've crafted during my vocational school experience. 
+🎨 I've harnessed the power of HTML, CSS, and JavaScript to breathe life into these digital masterpieces, and I'm thrilled to share them with you.
 
-<br>Please explore it through the following link [(MyPorto✨)](https://sarahsfrra.github.io/)
+Please explore it through the following link [(MyPorto✨)](https://sarahsfrra.github.io/)
